@@ -1,7 +1,7 @@
 /* The design for the whole site. Every page uses this one file. */
 
 :root {
-  --bg: #f6f5f1;
+  --bg: #f7f7f8;
   --fg: #1b2433;
   --muted: #5d6676;
   --rule: #d8d9dc;
