@@ -1,0 +1,15 @@
+# Site settings. You rarely need to touch this file.
+title: Tullio Viola
+description: Philosopher at Maastricht University. History of late modern philosophy, philosophy of history, and theory of culture.
+
+# Markdown: a single line break in your text becomes a line break on the site,
+# exactly as in Obsidian.
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: true
+
+# Files that should never be published.
+exclude:
+  - README.md
+  - "*.canvas"
