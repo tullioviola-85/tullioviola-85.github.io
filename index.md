@@ -5,14 +5,9 @@ title: Tullio Viola
 
 # Tullio Viola
 
-Associate Professor of Philosophy
-Faculty of Arts and Social Sciences, Maastricht University
-
 ## About
 
-I work on late modern philosophy, the history of concepts, the philosophy of the social sciences, and the theory of culture. Much of my research starts from Charles S. Peirce and the pragmatist tradition and moves toward the study of images, habits, memory and cultural transmission, including the iconological tradition of Aby Warburg and Edgar Wind.
-
-Before Maastricht I was a postdoctoral fellow at the Max-Weber-Kolleg in Erfurt. I received my PhD in Philosophy from the Humboldt University of Berlin in 2015.
+I am an Associate Professor of Philosophy at Maastricht University in the Netherlands. I focus on the history of late modern philosophy, especially American pragmatism and French and German thought, working at the intersection of the philosophy of culture, the history of the humanities, and the philosophy of history. I study in particular how nineteenth- and early twentieth-century thinkers approached culture: how they conceptualized it, often in dialogue with the emerging social and cultural sciences, and how they used expressive forms such as images, artworks, or narratives as tools of thought. I understand this historical work as itself a form of philosophical inquiry. It informs my work in the philosophy of historiography and the humanities, and my effort to develop a culturally enriched social epistemology, one that asks to what extent cultural phenomena are themselves forms of knowledge.
 
 ## Research
 
