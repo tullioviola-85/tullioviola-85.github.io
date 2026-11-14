@@ -1,3 +1,8 @@
+---
+layout: default
+title: CV
+---
+
 # Tullio Viola - Curriculum Vitae
 
 Born in Palermo, Italy, July 19th, 1985
