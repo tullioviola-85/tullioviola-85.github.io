@@ -15,15 +15,14 @@ Four threads run through my current work: [philosophy of history, science and cu
 
 ## Selected publications
 
-- **2024** "The Philosophical Relevance of Peirce's Historical Studies." In *The Oxford Handbook of Charles S. Peirce*, Oxford University Press.
-- **2024** "Spiritualism as a Philosophy of Culture: Ravaisson and Boutroux." In *The Oxford Handbook of Modern French Philosophy*, Oxford University Press.
+- **2026** "Spiritualism in Plaster: Philosophy, Archaeology, and Figurative Practices in Félix Ravaisson’s Study of the Venus de Milo." [*History of Humanities* 11/1.](https://www.journals.uchicago.edu/doi/abs/10.1086/739914)
 - **2023** "Folk Narratives, Memory, and Social Critique: Notes on Jane Addams and the Baby Devil Legend." [*Journal of the Philosophy of History* 17/2.](https://brill.com/view/journals/jph/17/2/article-p328_8.xml)
 - **2020** *Peirce on the Uses of History.* [Berlin/Boston: De Gruyter](https://www-degruyterbrill-com.mu.idm.oclc.org/document/doi/10.1515/9783110651560/html).
 - **2020** "Habit, Contingency and Love: On Charles S. Peirce and Félix Ravaisson." *British Journal for the History of Philosophy* 28/5.
 - **2020** "Edgar Wind on Symbols and Memory: Pragmatist Traces on a Warburgian Path." *Visual History* 6.
 - **2019** "From Vague Symbols to Contested Concepts: Peirce, W. B. Gallie, and History." *History and Theory* 58/2.
 
-Many texts are open access via the [Maastricht research portal](https://cris.maastrichtuniversity.nl/en/persons/tullio-viola).
+Many texts are open access via the [Maastricht research portal](https://cris.maastrichtuniversity.nl/en/persons/tullio-viola). My full CV is [here](CV).
 
 ## Elsewhere
 
