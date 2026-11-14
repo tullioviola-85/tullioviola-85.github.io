@@ -22,7 +22,7 @@ Four threads run through my current work: [philosophy of history, science and cu
 - **2020** "Edgar Wind on Symbols and Memory: Pragmatist Traces on a Warburgian Path." *Visual History* 6.
 - **2019** "From Vague Symbols to Contested Concepts: Peirce, W. B. Gallie, and History." *History and Theory* 58/2.
 
-Many texts are open access via the [Maastricht research portal](https://cris.maastrichtuniversity.nl/en/persons/tullio-viola). My full CV is [here](CV).
+Many texts are open access via the [Maastricht research portal](https://cris.maastrichtuniversity.nl/en/persons/tullio-viola). My full CV is [here](cv).
 
 ## Elsewhere
 
