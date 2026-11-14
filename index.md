@@ -34,7 +34,3 @@ Many texts are open access via the [Maastricht research portal](https://cris.maa
 
 `t.viola@maastrichtuniversity.nl`
 [More contact details](contacts)
-
----
-
-Maastricht
