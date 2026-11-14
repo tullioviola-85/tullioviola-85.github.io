@@ -7,11 +7,11 @@ title: Tullio Viola
 
 ## About
 
-I am an Associate Professor of Philosophy at Maastricht University in the Netherlands. I focus on the history of late modern philosophy, especially American pragmatism and French and German thought, working at the intersection of the philosophy of culture, the history of the humanities, and the philosophy of history. I study in particular how nineteenth- and early twentieth-century thinkers approached culture: how they conceptualized it, often in dialogue with the emerging social and cultural sciences, and how they used expressive forms such as images, artworks, or narratives as tools of thought. I understand this historical work as itself a form of philosophical inquiry. It informs my work in the philosophy of historiography and the humanities, and my effort to develop a culturally enriched social epistemology, one that asks to what extent cultural phenomena are themselves forms of knowledge.
+I am an Associate Professor of Philosophy at Maastricht University. My research is in the history of late modern philosophy, with a focus on American pragmatism and on French and German philosophy of culture. My central interest is in culture as a medium of knowledge. I have studied how expressive forms such as images, narratives, and traditions were theorized in the nineteenth and early twentieth centuries as sources of knowledge and critique. This interest also leads me to the philosophy of history and of the humanities, where I study how historiographical and humanistic practices work and how they intersect with philosophical thinking. My book, Peirce on the Uses of History was published by De Gruyter in 2020.
 
 ## Research
 
-Four threads run through my work: [philosophy of history, science and culture in the nineteenth century](research#philosophy-of-history-science-and-culture-in-the-nineteenth-century); [conceptions of cultural transmission](research#conceptions-of-cultural-transmission-memory-heritage-habit); [the epistemology of figurative practices](research#the-epistemology-of-figurative-practices); and [folklore and storytelling](research#folklore-and-epistemologies-of-storytelling).
+Four threads run through my current work: [philosophy of history, science and culture in the nineteenth century](research#philosophy-of-history-science-and-culture-in-the-nineteenth-century); [conceptions of cultural transmission](research#conceptions-of-cultural-transmission-memory-heritage-habit); [the epistemology of figurative practices](research#the-epistemology-of-figurative-practices); and [folklore and storytelling](research#folklore-and-epistemologies-of-storytelling).
 
 ## Selected writing
 
